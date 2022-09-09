@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Libs: react-query, bootstrap, react-icon
+Libs: react-query, bootstrap, react-icon;
+
 API: https://ghibliapi.herokuapp.com/#section/Studio-Ghibli-API
 
 ## Available Scripts
