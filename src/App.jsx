@@ -5,6 +5,8 @@ import Gallery from "./components/Gallery";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 
+import './index.css';
+
 const query = new QueryClient();
 
 function App() {

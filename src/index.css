@@ -12,3 +12,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.app{
+  height: fit-content;
+}
+

@@ -45,6 +45,7 @@ a {
   flex-direction: row;
   justify-content: space-between;
   margin-bottom: .4rem;
+  padding-left:0;
   }
 
 .nav_icons {
