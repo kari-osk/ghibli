@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Github pages https://kari-osk.github.io/ghibli/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Libs: react-query, bootstrap, react-icon
+API: https://ghibliapi.herokuapp.com/#section/Studio-Ghibli-API
 
 ## Available Scripts
 
