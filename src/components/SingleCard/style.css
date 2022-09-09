@@ -9,7 +9,7 @@
   position: absolute;
   background:rgba(0,0,0,0.9);
   opacity: 0;
-  transition: 0.5s ease-in-out;
+  transition: 0.3s ease-in-out;
   z-index: 50;
 }
 
@@ -19,7 +19,7 @@ opacity: 1;
 
 .film_title {
   position: absolute;
-  transition: 0.9s ease-in-out;
+  transition: 0.3s ease-in-out;
   padding: 1rem;
   color: #E2E2E2;
   font-size: 0.8125rem;
