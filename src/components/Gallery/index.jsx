@@ -47,7 +47,7 @@ function Gallery() {
   return (
     <Container className='gallery_container'>
 
-      <h1 id='films' className='gallery_title'>Films</h1>
+      <h1 id='films' className='gallery_title'>The magic world of Ghibli</h1>
       <Row mb={2}>
         {
           data?.data.map((film) => (

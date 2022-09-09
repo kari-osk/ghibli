@@ -1,7 +1,7 @@
 .hero {
+  width: 100%;
   min-height: 516px;
   background: url('https://soranews24.com/wp-content/uploads/sites/3/2020/11/GI-16.jpg') no-repeat center;
-  /* ?w=1440 */
   background-size: cover;
   background-attachment: fixed;
   margin-bottom: 3rem;
@@ -10,7 +10,8 @@
 .hero_text {
   padding-top: 10rem;
   text-align: left;
-  color: #E2E2E2;
+  color: #fffbfa;
+  text-shadow: 1px 1px #000;
 }
 
 .hero_text h1{
@@ -44,6 +45,6 @@
 
   .hero_text {
     max-width: 400px;
-  padding-top: 16rem;
+    padding-top: 16rem;
   }
 }

@@ -5,12 +5,16 @@
 .gallery_title{
    text-align: center;
    padding-bottom: 1.5rem;
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 2.5rem;
 }
 
 .show_btn {
+  width: 42px;
+  height: 42px;
   position: fixed;
   border: none;
-  border-radius: 100%;
+  border-radius: 50%;
   background-color: #ccc; 
   bottom: 1rem;
   right: 1rem;
