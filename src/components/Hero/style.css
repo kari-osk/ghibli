@@ -1,0 +1,49 @@
+.hero {
+  min-height: 516px;
+  background: url('https://soranews24.com/wp-content/uploads/sites/3/2020/11/GI-16.jpg') no-repeat center;
+  /* ?w=1440 */
+  background-size: cover;
+  background-attachment: fixed;
+  margin-bottom: 3rem;
+}
+
+.hero_text {
+  padding-top: 10rem;
+  text-align: left;
+  color: #E2E2E2;
+}
+
+.hero_text h1{
+  font-size: 3.5rem;
+}
+
+.hero_text p{
+  font-weight: 500;
+}
+
+.hero_btn {
+  padding: .6rem .9rem;
+  border-radius: 20px 0 20px 0;
+  border: 1px solid #6d975a;
+  background: rgb(224,224,224);
+  background: radial-gradient(circle, rgba(224,224,224,1) 0%, rgba(218,255,196,1) 80%);
+  text-transform: uppercase;
+  font-size: .8rem;
+  font-weight: bold;
+}
+
+.hero_btn:hover {
+  border-radius: 20px;
+  background: #fff;
+}
+
+@media (min-width: 768px) {
+  .hero {
+    min-height:700px;
+  }
+
+  .hero_text {
+    max-width: 400px;
+  padding-top: 16rem;
+  }
+}

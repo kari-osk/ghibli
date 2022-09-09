@@ -1,0 +1,22 @@
+.gallery_container {
+  z-index: 1;
+}
+
+.gallery_title{
+   text-align: center;
+   padding-bottom: 1.5rem;
+}
+
+.show_btn {
+  position: fixed;
+  border: none;
+  border-radius: 100%;
+  background-color: #ccc; 
+  bottom: 1rem;
+  right: 1rem;
+  z-index:100;
+}
+
+.show_btn:hover {
+  background-color:#6d975a;
+}
