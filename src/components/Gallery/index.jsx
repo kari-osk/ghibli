@@ -54,7 +54,8 @@ function Gallery() {
             <Col sm={12} md={6} lg={3} xl={3} key={film.title} className='mb-3'>
               <SingleCard data={film} />
             </Col>
-          ))}
+          ))
+        }
       </Row>
       {
         showButton
