@@ -3,7 +3,7 @@
 <br>
 
 <p>
-  <img src='./src/assets/ghibli.png' alt='Studio Ghibli'> 
+  <img src='./src/assets/ghibli.png' alt='Studio Ghibli' width='50%'> 
 </p>
 
 ## Tecnologias
