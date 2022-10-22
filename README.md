@@ -1,12 +1,5 @@
 <h1>Studio Ghibli</h1>
 <p>Projeto criado com ReactJS / Context API</p>
-
-<p>
-  <a href='#-tecnologias'>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href='#-Projeto'>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href='#-Github pages'>Github pages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- </p>   
-
 <br>
 
 <p>
